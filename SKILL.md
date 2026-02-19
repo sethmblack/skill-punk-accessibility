@@ -4,7 +4,7 @@ description: A skill for creating protest forms anyone can replicate without res
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4770
+  version: 1.0.4771
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - punk-accessibility
